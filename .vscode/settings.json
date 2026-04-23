@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/cb06c9ba-a478-4406-bc06-ca0b1e2fea95/resourceGroups/midwebapp/providers/Microsoft.Web/sites/app-junaid-46",
+    "appService.deploySubpath": "."
+}
